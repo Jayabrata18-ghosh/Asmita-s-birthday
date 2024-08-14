@@ -58,6 +58,6 @@ function timeElapse(date){
 
 	var text = "THE WORLD JUST GOT LUCKIER SINCE ";
 	$("#message-box").html(text);
-	timeElapse('August 15, 2010 00:00:00');
+	timeElapse('August 15, 2009 00:00:00');
 }
   
